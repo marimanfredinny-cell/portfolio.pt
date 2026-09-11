@@ -5,9 +5,9 @@ var I18N = {
   nav4: { br: "Contato", pt: "Contacto" },
   navcta: { br: "Falar com a Mari", pt: "Falar com a Mari" },
 
-  heroEyebrow: { br: "Estratégia · Sites · IA · Tráfego pago", pt: "Estratégia · Sites · IA · Tráfego pago" },
-  heroH1: { br: "Presença digital que vira <em>cliente pagando</em>.", pt: "Presença digital que se torna <em>cliente a pagar</em>." },
-  heroLead: { br: "Estratégia, site, automação com IA e tráfego pago, operados por uma pessoa só, com direção clara pro seu faturamento.", pt: "Estratégia, site, automação com IA e tráfego pago, geridos por uma só pessoa, com direção clara para a sua faturação." },
+  heroEyebrow: { br: "Para quem presta serviço e quer escalar", pt: "Para quem presta serviços e quer escalar" },
+  heroH1: { br: "Seu serviço é bom. <em>Sua presença digital</em> ainda não mostra isso.", pt: "O seu serviço é bom. <em>A sua presença digital</em> ainda não mostra isso." },
+  heroLead: { br: "Estratégia, site, automação com IA e tráfego pago pra quem presta serviço, quer sair do impulsionador, aparecer no Google e faturar mais.", pt: "Estratégia, site, automação com IA e tráfego pago para quem presta serviços, quer deixar de depender do impulsionador, aparecer no Google e faturar mais." },
   heroBtn1: { br: "Ver perfis que já geri →", pt: "Ver perfis que já geri →" },
   heroBtn2: { br: "Ver sites que já entreguei", pt: "Ver sites que já entreguei" },
 
@@ -18,13 +18,13 @@ var I18N = {
   servEyebrow: { br: "O que eu faço", pt: "O que eu faço" },
   servH2: { br: "Tudo que o seu digital precisa, <em>sem enrolação</em>.", pt: "Tudo o que o seu digital precisa, <em>sem rodeios</em>." },
   serv1t: { br: "Estratégia Digital", pt: "Estratégia Digital" },
-  serv1p: { br: "Diagnóstico completo e um plano de ação com prioridade clara, sem achismo.", pt: "Diagnóstico completo e um plano de ação com prioridade clara, sem palpites." },
+  serv1p: { br: "Diagnóstico completo e um plano pra sair do operacional e escalar, com prioridade clara.", pt: "Diagnóstico completo e um plano para sair do operacional e escalar, com prioridade clara." },
   serv2t: { br: "Sites de Alta Conversão", pt: "Sites de Alta Conversão" },
-  serv2p: { br: "Um site pensado pra vender, não só pra ficar bonito.", pt: "Um site pensado para vender, não apenas para ficar bonito." },
+  serv2p: { br: "Site pensado pra aparecer no Google e converter, não só pra existir.", pt: "Site pensado para aparecer no Google e converter, não apenas para existir." },
   serv3t: { br: "Automação com IA", pt: "Automação com IA" },
-  serv3p: { br: "Sua empresa respondendo e qualificando lead mesmo com você fora do ar.", pt: "A sua empresa a responder e a qualificar leads mesmo consigo offline." },
+  serv3p: { br: "Atendimento e qualificação automáticos, pra escalar sem contratar mais gente.", pt: "Atendimento e qualificação automáticos, para escalar sem contratar mais pessoas." },
   serv4t: { br: "Tráfego Pago", pt: "Tráfego Pago" },
-  serv4p: { br: "Investimento direcionado pra quem decide comprar, não pra quem só curte.", pt: "Investimento direcionado a quem decide comprar, não a quem apenas gosta da publicação." },
+  serv4p: { br: "Campanha de verdade, não o botão de impulsionar. Investimento indo pra quem decide comprar.", pt: "Campanha a sério, não o botão de impulsionar. Investimento a chegar a quem decide comprar." },
 
   sitesEyebrow: { br: "Portfólio · Sites", pt: "Portfólio · Sites" },
   sitesH2: { br: "Sites que <em>eu mesma construí</em>.", pt: "Sites que <em>eu própria construí</em>." },
@@ -45,7 +45,7 @@ var I18N = {
   igP: { br: "Toque num celular pra abrir o perfil de verdade.", pt: "Toque num telemóvel para abrir o perfil de verdade." },
 
   ctaH2: { br: "O próximo passo é <em>simples</em>.", pt: "O próximo passo é <em>simples</em>." },
-  ctaP: { br: "Se o seu digital ainda não gera demanda consistente, vale entender por quê.", pt: "Se o seu digital ainda não gera procura consistente, vale a pena perceber porquê." },
+  ctaP: { br: "Se seu tráfego ainda depende do impulsionador e seu site não aparece no Google, vale entender onde está o gargalo.", pt: "Se o seu tráfego ainda depende do impulsionador e o seu site não aparece no Google, vale a pena perceber onde está o entrave." },
   ctaBtn1: { br: "Falar com a Mari →", pt: "Falar com a Mari →" },
   ctaBtn2: { br: "Ver portfólio", pt: "Ver portfólio" }
 };
