@@ -6,8 +6,8 @@ var I18N = {
   navcta: { br: "Falar com a Mari", pt: "Falar com a Mari" },
 
   heroEyebrow: { br: "Para quem presta serviço e quer escalar", pt: "Para quem presta serviços e quer escalar" },
-  heroH1: { br: "Seu serviço é bom. <em>Sua presença digital</em> ainda não mostra isso.", pt: "O seu serviço é bom. <em>A sua presença digital</em> ainda não mostra isso." },
-  heroLead: { br: "Estratégia, site, automação com IA e tráfego pago pra quem presta serviço, quer sair do impulsionador, aparecer no Google e faturar mais.", pt: "Estratégia, site, automação com IA e tráfego pago para quem presta serviços, quer deixar de depender do impulsionador, aparecer no Google e faturar mais." },
+  heroH1: { br: "Seu serviço é bom. <em>Sua presença digital</em> precisa mostrar isso.", pt: "O seu serviço é bom. <em>A sua presença digital</em> precisa mostrar isso." },
+  heroLead: { br: "Há cinco anos, entrego estratégia, site, automação com IA e tráfego pago pra quem presta serviço, quer aparecer no Google e faturar mais.", pt: "Há cinco anos, entrego estratégia, site, automação com IA e tráfego pago para quem presta serviços, quer aparecer no Google e faturar mais." },
   heroBtn1: { br: "Ver perfis que já geri →", pt: "Ver perfis que já geri →" },
   heroBtn2: { br: "Ver sites que já entreguei", pt: "Ver sites que já entreguei" },
 
