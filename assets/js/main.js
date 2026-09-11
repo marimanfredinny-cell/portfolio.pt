@@ -11,6 +11,7 @@ var I18N = {
   heroBtn1: { br: "Ver perfis que já geri →", pt: "Ver perfis que já geri →" },
   heroBtn2: { br: "Ver sites que já entreguei", pt: "Ver sites que já entreguei" },
 
+  stat0: { br: "Anos comandando projeto digital", pt: "Anos a comandar projetos digitais" },
   stat1: { br: "Perfis geridos", pt: "Perfis geridos" },
   stat2: { br: "Sites entregues", pt: "Sites entregues" },
   stat3: { br: "Frentes de atuação", pt: "Frentes de atuação" },
@@ -26,9 +27,9 @@ var I18N = {
   serv4t: { br: "Tráfego Pago", pt: "Tráfego Pago" },
   serv4p: { br: "Campanha de verdade, não o botão de impulsionar. Investimento indo pra quem decide comprar.", pt: "Campanha a sério, não o botão de impulsionar. Investimento a chegar a quem decide comprar." },
 
-  sitesEyebrow: { br: "Portfólio · Sites", pt: "Portfólio · Sites" },
-  sitesH2: { br: "Sites que <em>eu mesma construí</em>.", pt: "Sites que <em>eu própria construí</em>." },
-  sitesP: { br: "Clique em qualquer um pra ver funcionando de verdade.", pt: "Clique em qualquer um para ver a funcionar de verdade." },
+  sitesEyebrow: { br: "Projetos que já comandei", pt: "Projetos que já comandei" },
+  sitesH2: { br: "Sites que já <em>geraram demanda</em> de verdade.", pt: "Sites que já <em>geraram procura</em> a sério." },
+  sitesP: { br: "Projetos que eu mesma comandei do início ao fim. Clique pra ver funcionando.", pt: "Projetos que eu própria comandei do início ao fim. Clique para ver a funcionar." },
 
   site1p: { br: "Hub de ferramentas e diagnóstico pra captar cliente.", pt: "Hub de ferramentas e diagnóstico para captar clientes." },
   site2p: { br: "Calcula o Custo de Aquisição de Cliente na hora.", pt: "Calcula o Custo de Aquisição de Cliente na hora." },
@@ -40,9 +41,9 @@ var I18N = {
   site8p: { br: "IA que monta o planejamento de conteúdo em minutos.", pt: "IA que monta o planeamento de conteúdo em minutos." },
   site9p: { br: "Site institucional pra cirurgiã de transplante capilar.", pt: "Site institucional para cirurgiã de transplante capilar." },
 
-  igEyebrow: { br: "Portfólio · Perfis", pt: "Portfólio · Perfis" },
-  igH2: { br: "Perfis que já <em>geri</em>.", pt: "Perfis que já <em>geri</em>." },
-  igP: { br: "Toque num celular pra abrir o perfil de verdade.", pt: "Toque num telemóvel para abrir o perfil de verdade." },
+  igEyebrow: { br: "Projetos que já comandei", pt: "Projetos que já comandei" },
+  igH2: { br: "Perfis que já geri e <em>geraram demanda</em>.", pt: "Perfis que já geri e <em>geraram procura</em>." },
+  igP: { br: "Projetos de estratégia e tráfego que eu comandei. Toque num celular pra ver de verdade.", pt: "Projetos de estratégia e tráfego que eu comandei. Toque num telemóvel para ver de verdade." },
 
   ctaH2: { br: "O próximo passo é <em>simples</em>.", pt: "O próximo passo é <em>simples</em>." },
   ctaP: { br: "Se seu tráfego ainda depende do impulsionador e seu site não aparece no Google, vale entender onde está o gargalo.", pt: "Se o seu tráfego ainda depende do impulsionador e o seu site não aparece no Google, vale a pena perceber onde está o entrave." },
