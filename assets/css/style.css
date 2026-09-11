@@ -222,6 +222,15 @@ section { position: relative; }
 }
 .site-shot { position: relative; overflow: hidden; aspect-ratio: 16/10.5; background: #0a0908; }
 .site-shot img { width: 100%; height: 100%; object-fit: cover; object-position: top; transition: transform .6s ease; }
+.site-shot .shot-mobile { display: none; }
+.site-shot.portrait { aspect-ratio: 9/16; }
+.site-card.mobile-only { display: none; }
+@media (max-width: 680px) {
+  .site-shot:not(.portrait) { aspect-ratio: 9/16; }
+  .site-shot .shot-desktop { display: none; }
+  .site-shot .shot-mobile { display: block; }
+  .site-card.mobile-only { display: block; }
+}
 .site-card:hover .site-shot img { transform: scale(1.045); }
 .site-meta { padding: 20px 22px 24px; }
 .site-meta h3 { font-family: var(--serif); font-size: 19px; font-weight: 500; }
@@ -272,6 +281,7 @@ section { position: relative; }
   position: absolute; top: 8px; left: 50%; transform: translateX(-50%);
   width: 34%; height: 20px; background: #050505; border-radius: 12px; z-index: 5;
 }
+.iphone-shot { width: 100%; height: 100%; object-fit: cover; object-position: top; display: block; }
 .ig-topbar { display: flex; justify-content: space-between; align-items: center; padding: 14px 12px 6px; font-size: 9px; color: rgba(255,255,255,0.65); }
 .ig-header { padding: 10px 12px 8px; display: flex; align-items: center; gap: 10px; }
 .ig-avatar {
