@@ -392,12 +392,34 @@ footer .logo { font-size: 15px; }
 @media (max-width: 680px) {
   .nav-links { display: none; }
   .services-grid { grid-template-columns: 1fr; }
-  .ig-grid { grid-template-columns: 1fr; gap: 40px; }
-  .iphone-link { max-width: 230px; }
   .hero-stats { gap: 32px; }
   .section-pad { padding: 90px 0; }
   .section-pad.tight { padding: 70px 0; }
   .lang-toggle .lang-opt { padding: 5px 8px; font-size: 10px; }
+
+  /* carrossel horizontal: sites e perfis arrastam pro lado, sem empilhar */
+  .sites-grid, .ig-grid {
+    display: flex;
+    flex-wrap: nowrap;
+    grid-template-columns: none;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    gap: 16px;
+    margin: 0 -24px;
+    padding: 4px 24px 22px;
+  }
+  .sites-grid::-webkit-scrollbar, .ig-grid::-webkit-scrollbar { display: none; }
+  .sites-grid .site-card {
+    flex: 0 0 82%;
+    scroll-snap-align: center;
+  }
+  .ig-grid .iphone-link {
+    flex: 0 0 64%;
+    max-width: none;
+    scroll-snap-align: center;
+  }
 
   /* iOS-style vibrancy: rounder continuous corners, lighter blur for perf */
   :root {
