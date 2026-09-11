@@ -38,7 +38,6 @@ var I18N = {
   site5p: { br: "Site institucional com foco em agendamento.", pt: "Site institucional com foco em marcações." },
   site6p: { br: "Formulário de diagnóstico e acesso às ferramentas.", pt: "Formulário de diagnóstico e acesso às ferramentas." },
   site7p: { br: "Acesso rápido pra quem chega pelo Instagram.", pt: "Acesso rápido para quem chega pelo Instagram." },
-  site8p: { br: "IA que monta o planejamento de conteúdo em minutos.", pt: "IA que monta o planeamento de conteúdo em minutos." },
   site9p: { br: "Site institucional pra cirurgiã de transplante capilar.", pt: "Site institucional para cirurgiã de transplante capilar." },
 
   igEyebrow: { br: "Projetos que já comandei", pt: "Projetos que já comandei" },
