@@ -1,13 +1,27 @@
 var I18N = {
+  nav0: { br: "Sobre", pt: "Sobre" },
   nav1: { br: "Serviços", pt: "Serviços" },
   nav2: { br: "Sites", pt: "Sites" },
   nav3: { br: "Perfis", pt: "Perfis" },
   nav4: { br: "Contato", pt: "Contacto" },
-  navcta: { br: "Falar com a Mari", pt: "Falar com a Mari" },
+  navcta: { br: "Falar com a Mariana", pt: "Falar com a Mariana" },
 
   heroEyebrow: { br: "Para quem presta serviço e quer escalar", pt: "Para quem presta serviços e quer escalar" },
   heroH1: { br: "Seu serviço é bom. <em>Sua presença digital</em> precisa mostrar isso.", pt: "O seu serviço é bom. <em>A sua presença digital</em> precisa mostrar isso." },
   heroLead: { br: "Há cinco anos, entrego estratégia, site, automação com IA e tráfego pago pra quem presta serviço, quer aparecer no Google e faturar mais.", pt: "Há cinco anos, entrego estratégia, site, automação com IA e tráfego pago para quem presta serviços, quer aparecer no Google e faturar mais." },
+
+  aboutEyebrow: { br: "Quem está por trás", pt: "Quem está por trás" },
+  aboutH2: { br: "Mariana Santos.", pt: "Mariana Santos." },
+  aboutP1: { br: "Passei quatro anos nos bastidores de lançamentos digitais. Alguns monstruosos, outros desastrosos. O que ficou foi entender que resultado não vem de um canal isolado, mas de como eles se conversam.", pt: "Passei quatro anos nos bastidores de lançamentos digitais. Alguns monstruosos, outros desastrosos. O que ficou foi perceber que o resultado não vem de um canal isolado, mas da forma como eles conversam entre si." },
+  aboutP2: { br: "Hoje dirijo o marketing de empresas como Head Fracional. Assumo a cadeira estratégica, entendo o processo comercial e estruturo o digital com foco em demanda real. Com equipe ou sem equipe, minha função é garantir que cada centavo investido no digital tenha destino claro.", pt: "Hoje dirijo o marketing de empresas como Head Fracional. Assumo a cadeira estratégica, percebo o processo comercial e estruturo o digital com foco em procura real. Com equipa ou sem equipa, a minha função é garantir que cada cêntimo investido no digital tenha destino claro." },
+  aboutP3: { br: "O que diferencia esse trabalho é que ele vem de execução. Cada metodologia foi testada em negócio real, com resultado real e erro real. Teoria que não funcionou na prática ficou pelo caminho.", pt: "O que diferencia este trabalho é que vem de execução. Cada metodologia foi testada em negócio real, com resultado real e erro real. Teoria que não funcionou na prática ficou pelo caminho." },
+  aboutStat1: { br: "anos de execução em digital", pt: "anos de execução em digital" },
+  aboutStat2: { br: "em negócios gerados para clientes", pt: "em negócios gerados para clientes" },
+  aboutStat3: { br: "foco em resultado comercial", pt: "foco em resultado comercial" },
+  aboutBannerLabel: { br: "RESULTADO", pt: "RESULTADO" },
+  aboutBannerTime: { br: "agora mesmo", pt: "agora mesmo" },
+  aboutBannerTitle: { br: "Meta atingida", pt: "Meta atingida" },
+  aboutBannerSub: { br: "R$ 2,4 mi em negócios gerados para clientes", pt: "R$ 2,4 mi em negócios gerados para clientes" },
   heroBtn1: { br: "Ver perfis que já geri →", pt: "Ver perfis que já geri →" },
   heroBtn2: { br: "Ver sites que já entreguei", pt: "Ver sites que já entreguei" },
 
@@ -41,7 +55,7 @@ var I18N = {
 
   ctaH2: { br: "O próximo passo é <em>simples</em>.", pt: "O próximo passo é <em>simples</em>." },
   ctaP: { br: "Se seu tráfego ainda depende do impulsionador e seu site não aparece no Google, vale entender onde está o gargalo.", pt: "Se o seu tráfego ainda depende do impulsionador e o seu site não aparece no Google, vale a pena perceber onde está o entrave." },
-  ctaBtn1: { br: "Falar com a Mari →", pt: "Falar com a Mari →" },
+  ctaBtn1: { br: "Falar com a Mariana →", pt: "Falar com a Mariana →" },
   ctaBtn2: { br: "Ver portfólio", pt: "Ver portfólio" }
 };
 
