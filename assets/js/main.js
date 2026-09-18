@@ -11,11 +11,6 @@ var I18N = {
   heroBtn1: { br: "Ver perfis que já geri →", pt: "Ver perfis que já geri →" },
   heroBtn2: { br: "Ver sites que já entreguei", pt: "Ver sites que já entreguei" },
 
-  stat0: { br: "Anos comandando projeto digital", pt: "Anos a comandar projetos digitais" },
-  stat1: { br: "Perfis geridos", pt: "Perfis geridos" },
-  stat2: { br: "Sites entregues", pt: "Sites entregues" },
-  stat3: { br: "Frentes de atuação", pt: "Frentes de atuação" },
-
   servEyebrow: { br: "O que eu faço", pt: "O que eu faço" },
   servH2: { br: "Tudo que o seu digital precisa, <em>sem enrolação</em>.", pt: "Tudo o que o seu digital precisa, <em>sem rodeios</em>." },
   serv1t: { br: "Estratégia Digital", pt: "Estratégia Digital" },
