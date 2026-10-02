@@ -4,11 +4,12 @@ var I18N = {
   nav2: { br: "Sites", pt: "Sites" },
   nav3: { br: "Perfis", pt: "Perfis" },
   nav4: { br: "Contato", pt: "Contacto" },
-  navcta: { br: "Falar com a Mariana", pt: "Falar com a Mariana" },
+  navcta: { br: "Entrar em contato", pt: "Entrar em contacto" },
+  navRole: { br: "Estrategista digital", pt: "Estratega digital" },
 
   heroEyebrow: { br: "Para quem presta serviço e quer escalar", pt: "Para quem presta serviços e quer escalar" },
   heroH1: { br: "Seu serviço é bom. <em>Sua presença digital</em> precisa mostrar isso.", pt: "O seu serviço é bom. <em>A sua presença digital</em> precisa mostrar isso." },
-  heroLead: { br: "Há cinco anos, entrego estratégia, site, automação com IA e tráfego pago pra quem presta serviço, quer aparecer no Google e faturar mais.", pt: "Há cinco anos, entrego estratégia, site, automação com IA e tráfego pago para quem presta serviços, quer aparecer no Google e faturar mais." },
+  heroLead: { br: "Há cinco anos, entrego estratégia, site, automação com IA e mídia paga pra quem presta serviço, quer aparecer no Google e faturar mais.", pt: "Há cinco anos, entrego estratégia, site, automação com IA e mídia paga para quem presta serviços, quer aparecer no Google e faturar mais." },
 
   aboutEyebrow: { br: "Quem está por trás", pt: "Quem está por trás" },
   aboutH2: { br: "Mariana Santos.", pt: "Mariana Santos." },
@@ -34,7 +35,7 @@ var I18N = {
   serv2p: { br: "Site pensado pra aparecer no Google e converter, não só pra existir.", pt: "Site pensado para aparecer no Google e converter, não apenas para existir." },
   serv3t: { br: "Automação com IA", pt: "Automação com IA" },
   serv3p: { br: "Atendimento e qualificação automáticos, pra escalar sem contratar mais gente.", pt: "Atendimento e qualificação automáticos, para escalar sem contratar mais pessoas." },
-  serv4t: { br: "Tráfego Pago", pt: "Tráfego Pago" },
+  serv4t: { br: "Mídia Paga", pt: "Mídia Paga" },
   serv4p: { br: "Campanha de verdade, não o botão de impulsionar. Investimento indo pra quem decide comprar.", pt: "Campanha a sério, não o botão de impulsionar. Investimento a chegar a quem decide comprar." },
 
   sitesEyebrow: { br: "Projetos que já comandei", pt: "Projetos que já comandei" },
@@ -52,11 +53,11 @@ var I18N = {
 
   igEyebrow: { br: "Projetos que já comandei", pt: "Projetos que já comandei" },
   igH2: { br: "Perfis que já geri e <em>geraram demanda</em>.", pt: "Perfis que já geri e <em>geraram procura</em>." },
-  igP: { br: "Projetos de estratégia e tráfego que eu comandei. Toque num celular pra ver de verdade.", pt: "Projetos de estratégia e tráfego que eu comandei. Toque num telemóvel para ver de verdade." },
+  igP: { br: "Projetos de estratégia e mídia paga que eu comandei. Toque num celular pra ver de verdade.", pt: "Projetos de estratégia e mídia paga que eu comandei. Toque num telemóvel para ver de verdade." },
 
   ctaH2: { br: "O próximo passo é <em>simples</em>.", pt: "O próximo passo é <em>simples</em>." },
   ctaP: { br: "Se seu tráfego ainda depende do impulsionador e seu site não aparece no Google, vale entender onde está o gargalo.", pt: "Se o seu tráfego ainda depende do impulsionador e o seu site não aparece no Google, vale a pena perceber onde está o entrave." },
-  ctaBtn1: { br: "Falar com a Mariana →", pt: "Falar com a Mariana →" },
+  ctaBtn1: { br: "Entrar em contato →", pt: "Entrar em contacto →" },
   ctaBtn2: { br: "Ver portfólio", pt: "Ver portfólio" }
 };
 
